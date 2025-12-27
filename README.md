@@ -1,4 +1,4 @@
-# 🎯 Prédiction de Clic sur une Annonce (Ad Click Prediction)
+# Prédiction de Clic sur une Annonce (Ad Click Prediction)
 
 Application web (API Flask) intégrant un modèle de Deep Learning pour prédire la probabilité qu'un utilisateur clique sur une annonce publicitaire.
 
@@ -7,14 +7,14 @@ une prédiction cohérente entre l'entraînement et la production.
 
 ---
 
-## 🛠 Technologies Clés
+## Technologies Clés
 
 * **Langage :** Python 3.9+
 * **Framework Web :** Flask
 * **Modélisation :** Keras / TensorFlow
 * **Déploiement :** Docker, Gunicorn
 
-## 📂 Structure du Projet
+## Structure du Projet
 
 ```text
 C:.
@@ -33,7 +33,7 @@ C:.
 ```
 ---
 
-## 🚀 Lancement Local
+## Lancement Local
 
 Pour développer et tester l'application rapidement :
 
@@ -50,7 +50,7 @@ L'application sera accessible sur : [http://127.0.0.1:5000](http://127.0.0.1:500
 
 ---
 
-## 🐳 Lancement via Docker
+## Lancement via Docker
 
 Utilisez cette méthode pour un environnement de production fiable et reproductible :
 
